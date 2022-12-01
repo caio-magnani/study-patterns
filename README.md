@@ -19,7 +19,7 @@
 ### **Os padrões são classificados em:**
 
 **[Criacionais:](./Design%20Patterns%20(GoF)/Criacionais.md)** padrões que propõem soluções flexíveis para criação de objetos. 
-  - Abstract Factory;
+  - [Abstract Factory](./implementations/abstract_factory/abstract_factory.md);
   - Factory Method;
   - Singleton;
   - Builder;
